@@ -17,6 +17,7 @@ El asistente permite realizar las siguientes acciones:
 - Saludo formal
 - Saludo informal
 - Despedida formal e informal
+- Saludo en diversos idiomas
 
 ### 2. Módulo matemático
 - Sumar dos números
@@ -29,6 +30,7 @@ El asistente permite realizar las siguientes acciones:
 - Contar la cantidad de vocales
 - Convertir texto a mayúsculas
 - Invertir un texto
+- Determinar si una palabra es palíndromo
 
 ## Objetivo
 
